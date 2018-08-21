@@ -23,10 +23,10 @@ Optional Features:
 
 END POINT 
 the app s hosted on HEROKU here https://stackoveflow.herokuapp.com and u can use that as the Base url with the followng end ponts
-GET api/v1/questions  gets all questons
-GET api/v1/questions/<questionId>  gets a specific Question
-POST api/v1/questions  adds a question
-POST api/v1/questions/<questionId>/answers  Adds an answer
+1.GET api/v1/questions  gets all questons
+2.GET api/v1/questions/<questionId>  gets a specific Question
+3.POST api/v1/questions  adds a question
+4.POST api/v1/questions/<questionId>/answers  Adds an answer
 
 
 
